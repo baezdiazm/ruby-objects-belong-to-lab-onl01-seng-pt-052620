@@ -8,9 +8,5 @@ class Post
     @title
   end
 
-  def initialize
-    @title = title
-  end
-
 
 end
