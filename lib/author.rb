@@ -1,5 +1,7 @@
 class Author
-  attr_accessor :author
+  def name=(name)
+    @name = name
+  end
 
   def initialize
     @author = author
