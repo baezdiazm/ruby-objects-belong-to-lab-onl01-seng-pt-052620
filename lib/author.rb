@@ -1,6 +1,6 @@
 class Author
-  def name=(name)
-    @name = name
+  def author=(name)
+    @author = name
   end
 
   def name
