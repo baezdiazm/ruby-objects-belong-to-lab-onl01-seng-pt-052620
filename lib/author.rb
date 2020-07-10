@@ -7,9 +7,7 @@ class Author
     @author
   end
 
-  def initialize
-    @author
-  end
+
 
 
 end
