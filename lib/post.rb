@@ -1,6 +1,6 @@
 class Post
 
-  def  
+  def
 
   def initialize
     @title = title
