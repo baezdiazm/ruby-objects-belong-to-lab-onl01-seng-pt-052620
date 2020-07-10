@@ -3,6 +3,10 @@ class Author
     @name = name
   end
 
+  def name
+    @name
+  end
+
   def initialize
     @author = author
   end
