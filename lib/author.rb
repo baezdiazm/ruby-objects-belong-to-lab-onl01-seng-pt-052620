@@ -4,7 +4,7 @@ class Author
   end
 
   def name
-    @name
+    @author
   end
 
   def initialize
