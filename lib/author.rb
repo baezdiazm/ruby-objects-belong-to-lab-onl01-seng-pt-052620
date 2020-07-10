@@ -7,8 +7,8 @@ class Author
     @author
   end
 
-  def initialize(name)
-    @author = name
+  def initialize
+    @author
   end
 
 
