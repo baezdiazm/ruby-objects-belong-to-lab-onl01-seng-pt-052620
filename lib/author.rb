@@ -1,11 +1,11 @@
 class Author
 
   def name=(name)
-    @author = name
+    @name = name
   end
 
   def name
-    @author
+    @name
   end
 
 
